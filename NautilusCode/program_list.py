@@ -57,6 +57,9 @@ progs += Program('clion', _('CLion'),
 progs += Program('clion-eap', _('CLion (EAP)'),
                  Native('clion-eap'))
 
+progs += Program('cursor', _('Cursor'),
+                 Native('cursor'))
+
 progs += Program('datagrip', _('DataGrip'),
                  Native('datagrip'),
                  Flatpak('com.jetbrains.DataGrip'))

@@ -38,6 +38,7 @@ ninja uninstall -C build
 - Android Studio
 - Aqua
 - CLion
+- Cursor
 - DataGrip
 - DataSpell
 - Fleet

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nautilus-code 3.alpha\n"
 "Report-Msgid-Bugs-To: realmazharhussain@gmail.com\n"
-"POT-Creation-Date: 2023-02-27 17:58+0500\n"
+"POT-Creation-Date: 2025-10-02 19:22+0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,7 +29,7 @@ msgstr ""
 msgid "Flatpak"
 msgstr ""
 
-#: NautilusCode/types.py:171
+#: NautilusCode/types.py:175
 #, python-format
 msgid "Open in %s"
 msgstr ""
@@ -38,30 +38,142 @@ msgstr ""
 msgid "Code-OSS"
 msgstr ""
 
-#: NautilusCode/program_list.py:11
+#: NautilusCode/program_list.py:12
 msgid "VSCode"
 msgstr ""
 
-#: NautilusCode/program_list.py:21
+#: NautilusCode/program_list.py:22
 msgid "VSCode (Insiders)"
 msgstr ""
 
-#: NautilusCode/program_list.py:25
+#: NautilusCode/program_list.py:27
 msgid "VSCodium"
 msgstr ""
 
-#: NautilusCode/program_list.py:29
+#: NautilusCode/program_list.py:32
+msgid "VSCodium (Insiders)"
+msgstr ""
+
+#: NautilusCode/program_list.py:37
 msgid "Builder"
 msgstr ""
 
-#: NautilusCode/program_list.py:34
+#: NautilusCode/program_list.py:42
 msgid "Sublime"
 msgstr ""
 
-#: NautilusCode/program_list.py:38
+#: NautilusCode/program_list.py:46
+msgid "Android Studio"
+msgstr ""
+
+#: NautilusCode/program_list.py:50
+msgid "Aqua"
+msgstr ""
+
+#: NautilusCode/program_list.py:53
+msgid "CLion"
+msgstr ""
+
+#: NautilusCode/program_list.py:57
+msgid "CLion (EAP)"
+msgstr ""
+
+#: NautilusCode/program_list.py:60
+msgid "Cursor"
+msgstr ""
+
+#: NautilusCode/program_list.py:63
+msgid "DataGrip"
+msgstr ""
+
+#: NautilusCode/program_list.py:67
+msgid "DataGrip (EAP)"
+msgstr ""
+
+#: NautilusCode/program_list.py:70
+msgid "DataSpell"
+msgstr ""
+
+#: NautilusCode/program_list.py:73
+msgid "DataSpell (EAP)"
+msgstr ""
+
+#: NautilusCode/program_list.py:76
+msgid "Fleet"
+msgstr ""
+
+#: NautilusCode/program_list.py:79
+msgid "GoLand"
+msgstr ""
+
+#: NautilusCode/program_list.py:83
+msgid "GoLand (EAP)"
+msgstr ""
+
+#: NautilusCode/program_list.py:89
+msgid "IntelliJ IDEA"
+msgstr ""
+
+#: NautilusCode/program_list.py:92
+msgid "IntelliJ IDEA (EAP)"
+msgstr ""
+
+#: NautilusCode/program_list.py:95
+msgid "IntelliJ IDEA Community"
+msgstr ""
+
+#: NautilusCode/program_list.py:98
+msgid "IntelliJ IDEA Ultimate"
+msgstr ""
+
+#: NautilusCode/program_list.py:101
+msgid "MPS"
+msgstr ""
+
+#: NautilusCode/program_list.py:104
 msgid "PhpStorm"
 msgstr ""
 
-#: NautilusCode/program_list.py:42
+#: NautilusCode/program_list.py:108
 msgid "PhpStorm (EAP)"
+msgstr ""
+
+#: NautilusCode/program_list.py:114
+msgid "PyCharm"
+msgstr ""
+
+#: NautilusCode/program_list.py:117
+msgid "PyCharm (EAP)"
+msgstr ""
+
+#: NautilusCode/program_list.py:120
+msgid "PyCharm Professional"
+msgstr ""
+
+#: NautilusCode/program_list.py:123
+msgid "PyCharm Community"
+msgstr ""
+
+#: NautilusCode/program_list.py:126
+msgid "Rider"
+msgstr ""
+
+#: NautilusCode/program_list.py:130
+msgid "RubyMine"
+msgstr ""
+
+#: NautilusCode/program_list.py:134
+msgid "RubyMine (EAP)"
+msgstr ""
+
+#: NautilusCode/program_list.py:137
+msgid "WebStorm"
+msgstr ""
+
+#: NautilusCode/program_list.py:141
+msgid "WebStorm (EAP)"
+msgstr ""
+
+#: NautilusCode/program_list.py:144
+msgid "Zed"
 msgstr ""

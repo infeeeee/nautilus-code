@@ -144,3 +144,7 @@ progs += Program('webstorm-eap', _('WebStorm (EAP)'),
 progs += Program('zed', _('Zed'),
                  Native('zed', 'zeditor', 'zedit'),
                  Flatpak('dev.zed.Zed'))
+
+progs += Programs('zed-preview', _('Zed Preview'),
+				  Native('zed', 'zeditor', 'zedit'),
+                  Flatpak('dev.zed.Zed-Preview'))

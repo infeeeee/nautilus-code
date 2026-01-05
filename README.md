@@ -51,6 +51,7 @@ ninja uninstall -C build
 - RubyMine
 - WebStorm
 - Zed
+  - Zed Preview
 
 ### Request support for your favorite IDE or Code Editor
 You can [open a GitHub issue](https://github.com/realmazharhussain/nautilus-code/issues/new) to request support for your favorite IDE or Code Editor.
